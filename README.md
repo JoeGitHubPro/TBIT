@@ -21,6 +21,15 @@ The initial deployment costs for TBIT are as follows:
 
 The total cost for the first year of deployment is $172, and subsequent years will cost $147 per year.
 
+
+## Technologies and Frameworks
+
+- Database: SQL Server
+- Back-end: ASP.NET Core 7.0 with Entity Framework ORM and SignalR for real-time connection
+- Endpoints: HTTP JSON protocol
+- Dashboard and Front-end: React JS
+- Mobile: Cross-platform Flutter
+
 ## Development Time
 
 The TBIT development process is broken down into the following stages for over time approximately 2 months :
@@ -44,3 +53,17 @@ To provide a seamless experience for users, TBIT integrates with various third-p
 Remember, the TBIT  plan is a living document that will evolve over time as we gather more information and insight. We are prepared to revisit and revise the plan as needed, and we are always open to feedback and new ideas.
 
 Good luck!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
